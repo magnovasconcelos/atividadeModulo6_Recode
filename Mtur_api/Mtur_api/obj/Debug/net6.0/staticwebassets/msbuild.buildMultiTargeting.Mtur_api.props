@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Mtur_api.props" />
+</Project>
